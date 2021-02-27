@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Innovile [https://www.innovile.com/](https://www.innovile.com/)
 
-- 📝 I regularly write articles on [https://www.aykutaktas.net](https://www.aykutaktas.net)
+- 📝 I regularly write articles on [https://medium.com/@aykutaktas06](https://medium.com/@aykutaktas06)
 
 - 📫 How to reach me **aykut@aykutaktas.net**
 
