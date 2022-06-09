@@ -2,7 +2,8 @@
 <h3 align="center">.NET Architect</h3>
 
 - 🔭 I have been working as a .Net Architect at Adesso Turkey [https://www.adesso.com.tr/](https://www.adesso.com.tr)
-Senior Software Developer with a demonstrated history of working in the computer software industry. The stages in the software development life cycle I have been contributing +11 years include requirement analysis, planning, designing, architecting solutions, implementing the ideal solution, and doing all these in an agile fashion.
+
+With a demonstrated history of working in the computer software industry. The stages in the software development life cycle I have been contributing +11 years include requirement analysis, planning, designing, architecting solutions, implementing the ideal solution, and doing all these in an agile fashion.
 
 - 📝 I regularly write articles on [https://medium.com/@aykutaktas06](https://medium.com/@aykutaktas06)
 
