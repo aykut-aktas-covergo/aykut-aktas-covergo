@@ -9,7 +9,7 @@ With a demonstrated history of working in the computer software industry. The st
 
 - 📫 How to reach me **aykut@aykutaktas.net**
 
-- 🌐 [www.aykutaktas.net](https://www.aykutaktas.net)
+- 🌐 Web site [www.aykutaktas.net](https://www.aykutaktas.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
