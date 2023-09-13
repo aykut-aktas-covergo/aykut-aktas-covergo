@@ -9,6 +9,8 @@ With a demonstrated history of working in the computer software industry. The st
 
 - 📫 How to reach me **aykut@aykutaktas.net**
 
+- 🌐 [www.aykutaktas.net](https://www.aykutaktas.net)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aykut-aktas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aykutaktas" height="30" width="40" /></a>
