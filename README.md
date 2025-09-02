@@ -3,7 +3,7 @@
 
 - 🔭 I have been working as a IT Architect at Halkbank Turkey [https://www.halkbank.com.tr/](https://www.halkbank.com.tr)
 
-With a demonstrated history of working in the computer software industry. The stages in the software development life cycle I have been contributing 12 years include requirement analysis, planning, designing, architecting solutions, implementing the ideal solution, and doing all these in an agile fashion.
+With a demonstrated history of working in the computer software industry. The stages in the software development life cycle I have been contributing +13 years include requirement analysis, planning, designing, architecting solutions, implementing the ideal solution, and doing all these in an agile fashion.
 
 - 📝 I regularly write articles on [https://medium.com/@aykutaktas06](https://medium.com/@aykutaktas06)
 
