@@ -12,7 +12,7 @@ With a demonstrated history of working in the computer software industry. The st
 - 🌐 Web site [www.aykutaktas.net](https://www.aykutaktas.net)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="background-color:white">
+<p align="left">
 <a href="https://www.linkedin.com/in/aykut-aktas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aykutaktas" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aaykutaktas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aykutaktas" height="30" width="40" /></a>
 <a href="https://twitter.com/Aykut__Aktas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aykutaktas" height="30" width="40" /></a>
