@@ -1,7 +1,7 @@
 <h1 align="center">Aykut AKTAŞ</h1>
-<h3 align="center">IT Architect, .NET Architect, Code Lover ♥</h3>
+<h3 align="center">.NET Architect, Code Lover ♥</h3>
 
-- 🔭 I have been working as a IT Architect at Halkbank Turkey [https://www.halkbank.com.tr/](https://www.halkbank.com.tr)
+- 🔭 I have been working as a .NET Architect Remotely in Vilnius, Lithuania & Mersin, Turkey.
 
 With a demonstrated history of working in the computer software industry. The stages in the software development life cycle I have been contributing +13 years include requirement analysis, planning, designing, architecting solutions, implementing the ideal solution, and doing all these in an agile fashion.
 
