@@ -11,6 +11,19 @@ With a demonstrated history of working in the computer software industry. The st
 
 - 🌐 Web site [www.aykutaktas.net](https://www.aykutaktas.net)
 
+<style>
+.social-icon {
+  display: inline-block; /* Makes the link behave like the image */
+  width: 40px;
+  height: 30px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* Apply the filter here */
+  filter: invert(1) grayscale(1) brightness(2) contrast(0.5);
+}
+</style>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aykut-aktas" target="blank" class="social-icon linkedin"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aykutaktas" height="30" width="40" /></a>
