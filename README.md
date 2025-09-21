@@ -35,6 +35,8 @@ With a demonstrated history of working in the computer software industry. The st
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> </a>
 </p>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykut-aktas-covergo&layout=compact&theme=tokyonight)
+
 <h3 align="left">For Development:</h3>
 Experimental support for Gitpod, a pre-configured development
 environment that runs in your browser. To use Gitpod, click the button below and
