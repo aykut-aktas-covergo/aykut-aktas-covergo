@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Aykut AKTAŞ</h1>
-  <h3>🏗️ .NET Architect | 💻 Code Lover | ✍️ Technical Writer</h3>
+  <h3>🏗️ Principal .NET Developer | 🎯 Team Leadership | 💻 Code Lover | ✍️ Technical Writer</h3>
 </div>
 
 ## 🌟 About Me
@@ -8,7 +8,7 @@
 With **+13 years** of experience in the software development lifecycle, I specialize in:
 
 - 📊 **Requirement Analysis** → 🎯 **Planning** → 🏛️ **Architecture** → 💎 **Implementation** → 🚀 **Delivery**
-- 🏢 Working remotely as a **.NET Architect** between Vilnius, Lithuania & Mersin, Turkey
+- 🏢 Working remotely as a **Principal .NET Developer** in Europe and Turkey
 - 🎯 Passionate about **clean code**, **design patterns**, and **scalable solutions**
 - 🤝 Strong advocate of **Agile methodologies** and **team collaboration**
 
@@ -93,7 +93,7 @@ With **+13 years** of experience in the software development lifecycle, I specia
 I regularly share my experiences and technical knowledge on **[Medium](https://medium.com/@aykutaktas06)**. Topics include:
 
 - 🏛️ Software Architecture & Design Patterns
-- 🚀 .NET Core & Microservices
+- 🚀 C# .NET / .NET Core & Microservices
 - 🔧 Clean Code & Best Practices
 - ☁️ Cloud-native Development
 
